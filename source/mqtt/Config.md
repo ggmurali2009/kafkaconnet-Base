@@ -1,4 +1,4 @@
-# mqtt Config File
+# MQTT Config File
 
 ## Source Connector
 
